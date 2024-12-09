@@ -11,13 +11,14 @@ SafeMailAI is a powerful email classification tool that leverages NLP and machin
 - Classification Report: Summarizes precision, recall, F1-score, and support for better understanding the model’s effectiveness.
 Interactive and Intuitive Interface.
 Built using Streamlit, ensuring simplicity and accessibility.
-- **User-Friendly Interface**: The result is displayed with a colored background to clearly indicate whether an email is Spam (red) or Not Spam (green).Red Background for Spam emails, making them easily identifiable.
-Green Background for Not Spam emails, emphasizing safe content.
+- **User-Friendly Interface**: The result is displayed with a colored background to clearly indicate whether an email is Spam (red) or Not Spam (green).
+- Red Background for Spam emails, making them easily identifiable.
+- Green Background for Not Spam emails, emphasizing safe content.
 
-## How to Use SafeMailAI?
-**Input**: Enter the text of the email into the provided input field on the interface.
-**Classification**: Hit the classify button to see if the email is Spam or Not Spam.
-**Evaluation**: Optionally, explore the performance metrics to analyze how the model performs on a dataset.
+- ## How to Use SafeMailAI?
+- **Input**: Enter the text of the email into the provided input field on the interface.
+- **Classification**: Hit the classify button to see if the email is Spam or Not Spam.
+- **Evaluation**: Optionally, explore the performance metrics to analyze how the model performs on a dataset.
   
 ## Benefits:
 Secure Inbox: Keeps your inbox free of clutter and malicious emails.
