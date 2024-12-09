@@ -17,7 +17,7 @@ Green Background for Not Spam emails, emphasizing safe content.
 ## How to Use SafeMailAI?
 **Input**: Enter the text of the email into the provided input field on the interface.
 **Classification**: Hit the classify button to see if the email is Spam or Not Spam.
-**Evaluation: Optionally, explore the performance metrics to analyze how the model performs on a dataset.
+**Evaluation**: Optionally, explore the performance metrics to analyze how the model performs on a dataset.
   
 ## Benefits:
 Secure Inbox: Keeps your inbox free of clutter and malicious emails.
