@@ -13,9 +13,9 @@ SafeMailAI is a powerful email classification tool that leverages NLP and machin
  Green Background for Not Spam emails, emphasizing safe content.
 
  ## BENEFITS:
--  Secure Inbox: Keeps your inbox free of clutter and malicious emails.
--  Transparency: Allows users to understand how well the model performs.
--  Ease of Use: Requires minimal technical expertise to operate.
+-  **Secure Inbox**: Keeps your inbox free of clutter and malicious emails.
+-  **Transparency**: Allows users to understand how well the model performs.
+-  **Ease of Use**: Requires minimal technical expertise to operate.
 
 
 
